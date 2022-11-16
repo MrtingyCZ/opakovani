@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\opakovani motol\opakovani motol\bin\Debug\opakovani motol.exe.config
+C:\Users\marti\source\repos\opakovani motol\opakovani motol\bin\Debug\opakovani motol.exe
+C:\Users\marti\source\repos\opakovani motol\opakovani motol\bin\Debug\opakovani motol.pdb
+C:\Users\marti\source\repos\opakovani motol\opakovani motol\obj\Debug\opakovani motol.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\opakovani motol\opakovani motol\obj\Debug\opakovani motol.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\opakovani motol\opakovani motol\obj\Debug\opakovani motol.exe
+C:\Users\marti\source\repos\opakovani motol\opakovani motol\obj\Debug\opakovani motol.pdb
